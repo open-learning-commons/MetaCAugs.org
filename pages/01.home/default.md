@@ -1,10 +1,4 @@
----
-title: Home
-body_classes: 'title-center title-h1h2'
----
-
-## Join MetaCAugs!
-
+# Join MetaCAugs!
 MetaCAugs is an informal and international group experimenting with peer-based learning and production. We try out various tools and develop patterns which enhance peer learning and peer production. 
 
 We are active on various platforms. The best way to contact us is to introduce yourself on our main [Telegram channel](https://t.me/metacaugs). 
