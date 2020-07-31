@@ -7,16 +7,17 @@ You can then take part in our activities:
 
 - take part in a weekly video-meeting (Tuesday, starting at Noon Pacific)
 
-- participate in a curation group on Diigo
+- participate in a curation group on [Diigo](https://groups.diigo.com/group/metacaugs)
 
-- engage in topical, in-depth, asynchronous discussions on Discourse
+- engage in topical, in-depth, asynchronous discussions on [Discourse](https://discuss.openlearning.cc/)
 
 - co-learn/ train with various platforms and tools in a WikiDojo
 
-- experiment with Federated Wiki
+- experiment with [Federated Wiki](http://wiki.openlearning.cc/)
 
 - co-design and participate in sense-making games
 
 - meet people involved in a wide range of groups/ projects/ networks
 
-Test!
+
+test again!
