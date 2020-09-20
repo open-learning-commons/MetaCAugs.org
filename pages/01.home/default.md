@@ -20,3 +20,5 @@ You can then take part in our activities:
 - co-design and participate in sense-making games
 
 - meet people involved in a wide range of groups/ projects/ networks
+
+Follow along by subscribing to our weekly newsletter here: http://eepurl.com/hch8Y5
