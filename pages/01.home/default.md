@@ -16,7 +16,7 @@ You can then take part in our activities:
 - co-design and participate in sense-making games
 - meet people involved in a wide range of groups / projects / networks
 
-You can also follow along by [subscribing to our weekly newsletter
+You can also follow along by [subscribing to our newsletter
 ](http://eepurl.com/hch8Y5)
 
 [![hackmd-github-sync-badge](https://hackmd.io/GyCzx_xYTvq0ynrn8D_LaA/badge)](https://hackmd.io/GyCzx_xYTvq0ynrn8D_LaA)
